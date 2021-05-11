@@ -1,0 +1,28 @@
+_repo: A-Handbook-of-Modern-Japan_65253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clement, Ernest W. (Ernest Wilson)
+    aliases:
+    - Clement, Ernest Wilson
+    - Clement, E. W. (Ernest Wilson)
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '53255'
+    url: http://www.gutenberg.org/2009/agents/53255
+description: ''
+gutenberg_issued: '2021-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65253'
+  lccn: '13010269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Japan'
+- GITenberg
+title: A Handbook of Modern Japan
+url: http://www.gutenberg.org/ebooks/65253
