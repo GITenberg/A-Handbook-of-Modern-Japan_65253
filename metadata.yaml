@@ -1,5 +1,8 @@
 _repo: A-Handbook-of-Modern-Japan_65253
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65253-h/images/cover.jpg
 creator:
   author:
     agent_name: Clement, Ernest W. (Ernest Wilson)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53255'
     url: http://www.gutenberg.org/2009/agents/53255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65253#A-Handbook-of-Modern-Japan
 gutenberg_issued: '2021-05-04'
 gutenberg_type: Text
 identifiers:
